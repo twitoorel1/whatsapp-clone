@@ -1,0 +1,8 @@
+# Server
+/whatsapp-server/package-lock.json
+/whatsapp-server/node_modules
+/whatsapp-server/.env
+
+
+/whatsapp-client/node_modules
+/whatsapp-client/package-lock.json
